@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7
 title: 'Essay #1'
 uid: 2b13e917-b8fe-e15f-b598-9ccb3b20f0b5
@@ -8,7 +12,7 @@ uid: 2b13e917-b8fe-e15f-b598-9ccb3b20f0b5
 
 For our first paper assignment, you will be asked to write a short essay that responds to the following prompt:
 
-_The historian Eric Foner argues that Reconstruction should be understood as an "unfinished revolution."_ 1 _In what ways, if any, were the American Civil War and the Reconstruction period that followed revolutionary, and for whom? What was left "unfinished" by Reconstruction?_
+_The historian Eric Foner argues that Reconstruction should be understood as an "unfinished revolution."_ {{< sup "1" >}} _In what ways, if any, were the American Civil War and the Reconstruction period that followed revolutionary, and for whom? What was left "unfinished" by Reconstruction?_
 
 Essays should present an original argument that responds to the above prompt. This argument should be unique (of your own making) and should reflect careful and serious engagement with course materials. It should also be clearly expressed and organized, so a reader would have no problem understanding both the overall argument and its progression through your essay. In crafting your argument, you should draw on lecture, discussion, and secondary source readings (materials assigned for Lecture 2). Evidence in support of this argument should be drawn from at least three primary sources (materials assigned for Lecture 3).
 
@@ -23,4 +27,4 @@ Essays will be evaluated according to:
 Essay #1 is due during Lecture 5.  
  
 
-1 Eric Foner, _Reconstruction: America’s Unfinished Revolution, 1863–1877_ (New York: Harper Collins,1988).
+{{< sup "1" >}} Eric Foner, _Reconstruction: America’s Unfinished Revolution, 1863–1877_ (New York: Harper Collins,1988).

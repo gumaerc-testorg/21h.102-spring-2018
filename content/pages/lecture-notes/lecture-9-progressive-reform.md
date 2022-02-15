@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: d8a46b5a-6f8b-fd32-4c55-64e4d12b9725
 title: Lecture 9 - Progressive Reform
 uid: 618e5e86-65b8-28af-0b7f-1bda003c1924

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7
 title: Guidelines for Reading Responses
 uid: e5a1d5d5-035a-21de-6821-1f544ad90dbf

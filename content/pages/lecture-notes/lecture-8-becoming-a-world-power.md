@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: d8a46b5a-6f8b-fd32-4c55-64e4d12b9725
 title: Lecture 8 - Becoming A World Power
 uid: fa2fbd01-93b7-a37b-e679-f9b30c07c185

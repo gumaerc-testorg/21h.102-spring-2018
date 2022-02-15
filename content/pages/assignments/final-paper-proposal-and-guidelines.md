@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7
 title: Final Paper Proposal and Guidelines
 uid: 19481ea7-fa46-20d5-5b6b-e1190a87e062
