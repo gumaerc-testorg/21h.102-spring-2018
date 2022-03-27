@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper Proposal and Guidelines
 parent_type: CourseSection
+parent_uid: 19481ea7-fa46-20d5-5b6b-e1190a87e062
 resourcetype: Document
 title: '21H.102_S17 Assignments Final Paper: The Power of Female Voters'
 uid: d8a7cd1d-970a-1e26-1085-251c8969fd09
