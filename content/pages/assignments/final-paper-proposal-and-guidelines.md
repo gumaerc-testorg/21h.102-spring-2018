@@ -22,7 +22,7 @@ The Final Paper itself, which will be due during Lecture 26.
 Proposals should be written in prose, and should include three paragraphs that offer the following information:
 
 *   Paragraph 1: The broad topic you plan to study and initial ideas for ways to narrow, refine, and focus that topic. This paragraph should include some kind of reference to material covered in the course (this can be a direct quote from a lecture or reading, or an indirect reference to an argument / idea / concept).
-*   Paragraph 2: 1–3 historical questions (see [Choosing a Topic and Asking a Question]({{< baseurl >}}/pages/assignments/choosing-a-topic-and-asking-a-question)) you might consider asking about your topic, and an articulation explaining why this topic matters (to you, and potentially to other historians or scholars).
+*   Paragraph 2: 1–3 historical questions (see {{< resource_link a09371ad-1037-861a-3ad8-9108af4064db "Choosing a Topic and Asking a Question" >}}) you might consider asking about your topic, and an articulation explaining why this topic matters (to you, and potentially to other historians or scholars).
 *   Paragraph 3: A preliminary plan for how you will approach your topic, and the sources you will draw on. This should include relevant secondary sources (from class or found outside class) and a discussion of specific primary sources or source collections you plan to analyze (for example, "beer advertisements from the 1950s," "issues of the [_MIT Technology Review_](https://www.technologyreview.com/) describing student activism in the 1960s").
 
 2\. Requirements for the Final Paper
@@ -46,6 +46,6 @@ Final Papers will be evaluated according to:
 Student Example
 ---------------
 
-["The Power of Female Voters: Why The Eisenhower Campaign’s Use of Television to Target Female Voters in the 1956 Election Matters." (PDF)]({{< baseurl >}}/resources/mit21h_102s18_assignments_finalpaperexample)
+{{< resource_link d8a7cd1d-970a-1e26-1085-251c8969fd09 "\"The Power of Female Voters: Why The Eisenhower Campaign’s Use of Television to Target Female Voters in the 1956 Election Matters.\" (PDF)" >}}
 
 This example appears courtesy of an MIT student and is anonymous by request.

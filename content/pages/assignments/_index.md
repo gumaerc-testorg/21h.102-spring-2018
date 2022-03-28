@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7
 ---
@@ -16,12 +17,12 @@ In addition to these writing assignments, students complete four informal readin
 
 There are no midterm or final examinations in this class.
 
-[Guidelines for Reading Responses]({{< baseurl >}}/pages/assignments/guidelines-for-reading-responses)
+{{< resource_link e5a1d5d5-035a-21de-6821-1f544ad90dbf "Guidelines for Reading Responses" >}}
 
-[Essay #1]({{< baseurl >}}/pages/assignments/essay-1)
+{{< resource_link 2b13e917-b8fe-e15f-b598-9ccb3b20f0b5 "Essay #1" >}}
 
-[Essay #2]({{< baseurl >}}/pages/assignments/essay-2)
+{{< resource_link 167eb069-c896-ee0e-7f7d-2d85aa615025 "Essay #2" >}}
 
-[Choosing a Topic and Asking a Question]({{< baseurl >}}/pages/assignments/choosing-a-topic-and-asking-a-question)
+{{< resource_link a09371ad-1037-861a-3ad8-9108af4064db "Choosing a Topic and Asking a Question" >}}
 
-[Final Paper Proposal and Guidelines]({{< baseurl >}}/pages/assignments/final-paper-proposal-and-guidelines)
+{{< resource_link 19481ea7-fa46-20d5-5b6b-e1190a87e062 "Final Paper Proposal and Guidelines" >}}
