@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-102-american-history-since-1865-spring-2018/d8a7cd1d970a1e261085251c8969fd09_MIT21H_102S18_Assignments_FinalPaperExample.pdf
+file: /courses/21h-102-american-history-since-1865-spring-2018/d8a7cd1d970a1e261085251c8969fd09_MIT21H_102S18_Assignments_FinalPaperExample.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

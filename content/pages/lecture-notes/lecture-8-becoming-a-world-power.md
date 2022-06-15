@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the main questions, key concepts and terms, and
+  key individuals discussed in this topic.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

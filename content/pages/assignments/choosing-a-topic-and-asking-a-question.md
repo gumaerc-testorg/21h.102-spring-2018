@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains tips on how to choose a topic for a research project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

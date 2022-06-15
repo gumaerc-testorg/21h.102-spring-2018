@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains information for writing Essay #1.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
