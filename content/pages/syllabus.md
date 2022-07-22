@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ef18cd4e-46eb-c0ba-ef1d-d33f0317740b
 ---
@@ -26,7 +29,7 @@ Trachtenberg, Alan. _The Incorporation of America: Culture and Society in the Gi
 
  Williams, Robert F. _Negroes with Guns_. Foreword by Gloria House. Introduction by Timothy B. Tyson. Wayne State University Press, 1998. ISBN: 9780814327142. \[Preview with [Google Books](https://books.google.com/books?id=i4YiA0jWz4EC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-All other required readings are listed in the table in the [Readings]({{< baseurl >}}/pages/readings) section. Assigned readings should be completed by the beginning of the class session under which they appear, unless otherwise stated.
+All other required readings are listed in the table in the {{% resource_link 3724b6b0-5599-facd-830c-ea7814517751 "Readings" %}} section. Assigned readings should be completed by the beginning of the class session under which they appear, unless otherwise stated.
 
 Grading Policy
 --------------
@@ -92,7 +95,7 @@ Final Paper
 
 {{< tableclose >}}
 
-For detailed information on the essays and the final paper, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the essays and the final paper, see the {{% resource_link fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7 "Assignments" %}} section.
 
 Policies and Resources
 ----------------------

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains the main questions, key concepts and terms, key
+  people, and additional resources related to this lecture.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: d8a46b5a-6f8b-fd32-4c55-64e4d12b9725
 title: Lecture 2 - Reconstruction, Race, and Reunion
 uid: 6a9441a2-bf72-e611-f1f2-516522e41ec1

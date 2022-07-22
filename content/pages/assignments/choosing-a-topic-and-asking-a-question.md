@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains tips on how to choose a topic for a research project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7
 title: Choosing a Topic and Asking a Question
 uid: a09371ad-1037-861a-3ad8-9108af4064db

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section contains information for writing Essay #2.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7
 title: 'Essay #2'
 uid: 167eb069-c896-ee0e-7f7d-2d85aa615025
@@ -11,7 +16,7 @@ For Essay #2 you will choose from one of three essay prompts, each of which addr
 Prompt 1
 --------
 
-In his book, _The Incorporation of America_, historian Alan Trachtenberg argues that "the meaning of America" became "the focus of controversy and struggle" during the final decades of the nineteenth century.1 Drawing on course lectures and readings, craft an argument that responds to Trachtenberg’s claim and its applicability to the period between 1870 and 1930. Questions to consider in your essay include: How did different groups understand the meaning of "America"? What historical contexts led to controversy and struggle? Did one particular vision for the meaning of "America" win out over others?
+In his book, _The Incorporation of America_, historian Alan Trachtenberg argues that "the meaning of America" became "the focus of controversy and struggle" during the final decades of the nineteenth century.{{< sup "1" >}} Drawing on course lectures and readings, craft an argument that responds to Trachtenberg’s claim and its applicability to the period between 1870 and 1930. Questions to consider in your essay include: How did different groups understand the meaning of "America"? What historical contexts led to controversy and struggle? Did one particular vision for the meaning of "America" win out over others?
 
 Prompt 2
 --------
@@ -40,4 +45,4 @@ Essays will be evaluated according to:
 
 Essay #2 is due during Lecture 13.
 
-1 Alan Trachtenberg, _The Incorporation of America: Culture and Society in the Gilded Age_ (New York: Hill and Wand, 1982), 7.
+{{< sup "1" >}} Alan Trachtenberg, _The Incorporation of America: Culture and Society in the Gilded Age_ (New York: Hill and Wand, 1982), 7.

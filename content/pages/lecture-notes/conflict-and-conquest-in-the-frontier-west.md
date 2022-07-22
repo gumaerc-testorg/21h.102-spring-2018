@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains the main questions, key concepts and terms, and
+  key individuals discussed in this topic.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: d8a46b5a-6f8b-fd32-4c55-64e4d12b9725
 title: Lecture 5 - Conflict and Conquest in the Frontier West
 uid: f17cfc24-b97a-d31d-4c9d-842841861852

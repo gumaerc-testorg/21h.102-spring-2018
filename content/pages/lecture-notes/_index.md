@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains select lecture notes for some of the course topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d8a46b5a-6f8b-fd32-4c55-64e4d12b9725
 ---
@@ -24,7 +28,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Reconstruction, Race, and Reunion]({{< baseurl >}}/pages/lecture-notes/lecture-2-reconstruction-race-and-reunion)
+{{% resource_link 6a9441a2-bf72-e611-f1f2-516522e41ec1 "Reconstruction, Race, and Reunion" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Conflict and Conquest in The Frontier West]({{< baseurl >}}/pages/lecture-notes/conflict-and-conquest-in-the-frontier-west)
+{{% resource_link f17cfc24-b97a-d31d-4c9d-842841861852 "Conflict and Conquest in The Frontier West" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Capital, Labor, and the Standardization of Work]({{< baseurl >}}/pages/lecture-notes/lecture-6-capital-labor-and-the-standardization-of-work)
+{{% resource_link 5518b486-f145-3e7a-c25f-89d7f3e12be5 "Capital, Labor, and the Standardization of Work" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Becoming a World Power]({{< baseurl >}}/pages/lecture-notes/lecture-8-becoming-a-world-power)
+{{% resource_link fa2fbd01-93b7-a37b-e679-f9b30c07c185 "Becoming a World Power" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Progressive Reform]({{< baseurl >}}/pages/lecture-notes/lecture-9-progressive-reform)
+{{% resource_link 618e5e86-65b8-28af-0b7f-1bda003c1924 "Progressive Reform" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
