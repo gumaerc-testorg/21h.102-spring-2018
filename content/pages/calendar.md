@@ -70,7 +70,7 @@ Analyzing Primary Sources: Reconstruction
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: {{% resource_link "10268002-dc73-40ee-bbd1-213e241ca5fe" "_Independent Lens: Birth of a Movement - The Battle Against American's First Blockbuster_" %}}. Directed by Bestor Cram and Susan Gray. Color, 60 mins. 2017.
+Screening: [_Independent Lens: Birth of a Movement - The Battle Against American's First Blockbuster_](https://www.imdb.com/title/tt6516480/). Directed by Bestor Cram and Susan Gray. Color, 60 mins. 2017.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -292,7 +292,7 @@ Power, Protest, and the Politics of Identity
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to {{% resource_link "58960734-e406-4135-aab1-9cf1630bad7e" "MIT Archives and Special Collections" %}}
+Visit to [MIT Archives and Special Collections](https://libraries.mit.edu/archives/)
 {{< tdclose >}}
 {{< tdopen >}}
 Final paper proposal due
