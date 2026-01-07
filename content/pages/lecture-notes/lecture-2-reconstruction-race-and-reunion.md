@@ -58,8 +58,8 @@ Key people
 Additional resources
 --------------------
 
-_{{% resource_link "8effc4c5-8c02-444d-886a-af6e6c3290af" "Glory" %}}_. Directed by Edward Zwick. Color, 122 mins. 1989. A movie about the first African-American military unit during the Civil War.
+_[Glory](https://www.imdb.com/title/tt0097441/?ref_=fn_al_tt_1)_. Directed by Edward Zwick. Color, 122 mins. 1989. A movie about the first African-American military unit during the Civil War.
 
-{{% resource_link "861e2aee-5cc1-450d-bddf-74e2b55c7f43" "_13th_" %}}. Directed by Ava DuVernay. Color, 100 mins. 2016. A documentary about race, justice, and mass incarceration in the U.S.
+[_13th_](https://www.imdb.com/title/tt5895028/?ref_=fn_al_tt_1). Directed by Ava DuVernay. Color, 100 mins. 2016. A documentary about race, justice, and mass incarceration in the U.S.
 
-_{{% resource_link "dc1e7497-a99c-43ba-be98-0b3751b00ba3" "Lincoln" %}}_. Directed by Steven Spielberg. Color, 150 mins. 2012. A biopic based on: Goodwin, Doris Kearns. _Team of Rivals: The Political Genius of Abraham Lincoln_. Simon & Schuster, 2006. ISBN: 9780743270755.
+_[Lincoln](https://www.imdb.com/title/tt0443272/?ref_=nv_sr_1)_. Directed by Steven Spielberg. Color, 150 mins. 2012. A biopic based on: Goodwin, Doris Kearns. _Team of Rivals: The Political Genius of Abraham Lincoln_. Simon & Schuster, 2006. ISBN: 9780743270755.
